@@ -1,1 +1,1 @@
-# mujoco_learning
+# curiosity
